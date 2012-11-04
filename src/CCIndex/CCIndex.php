@@ -3,7 +3,6 @@
 /**
 * Standard controller layout.
 *
-* @package LydiaCore
 */
 class CCIndex implements IController {
 

@@ -3,7 +3,6 @@
 /**
  * Bootstrapping, setting up and loading the core.
  *
- * @package LydiaCore
  */
 
 /**

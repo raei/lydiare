@@ -3,7 +3,6 @@
 /**
 * Main class for Lydia, holds everything.
 *
-* @package LydiaCore
 */
 class CLydia implements ISingleton {
 

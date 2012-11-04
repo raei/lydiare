@@ -2,7 +2,6 @@
 /**
  * Controller for development and testing purpose, helpful methods for the developer.
  * 
- * @package LydiaCore
  */
 class CCDeveloper implements IController {
 

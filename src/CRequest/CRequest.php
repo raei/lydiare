@@ -2,7 +2,6 @@
 /**
  * Parse the request and identify controller, method and arguments.
  *
- * @package LydiaCore
  */
 class CRequest {
 

@@ -7,9 +7,8 @@
 /**
  * Add static entries in the template file. 
  */
-$ly->data['header'] = '<h1>Header: Lydia</h1>';
+$ly->data['header'] = '<h1>Header: Lydiare</h1>';
 $ly->data['footer'] = <<<EOD
-<p>Footer: &copy; Lydia by Mikael Roos (mos@dbwebb.se)</p>
 
 <p>Tools: 
 <a href="http://validator.w3.org/check/referer">html5</a>
